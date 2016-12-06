@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "839949460708",
+    "firebase_url": "https://vynl-550e4.firebaseio.com",
+    "project_id": "vynl-550e4",
+    "storage_bucket": "vynl-550e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839949460708:android:4cad42706eac37e0",
+        "android_client_info": {
+          "package_name": "me.vynl.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839949460708-1oqe7raf80p2l6dtprjvjovlp0idc0gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2loAM8i87Zj6V1ylckujyVc6dsgbQXkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
